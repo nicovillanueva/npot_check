@@ -12,3 +12,4 @@
 
 - `--path`: Path to recursively check out. Defaults to `.`
 - `--extension`: File extension to inspect. Defaults to `png`
+- `--verbose`: Print out paths, valid files and a lot of shit. Disabled by default.
